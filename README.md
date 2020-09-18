@@ -1,5 +1,5 @@
 # stepik---auto-tests-course
-course homework
+```course homework
 https://stepik.org/course/72884/promo
 
 from selenium import webdriver
@@ -38,3 +38,4 @@ finally:
     time.sleep(10)
     # закрываем браузер после всех манипуляций
     browser.quit()
+```
